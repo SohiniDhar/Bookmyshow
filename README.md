@@ -20,19 +20,19 @@ Theatre :
 5. On sucessful payment confirm booking.
 
 System:
-1.On boarding.
-2.Notifications
-3.Generate ticket
-4.Refund in case of cancellation
-5.Calculate billing amount
-6.Confirm payment 
-7.Customer care support
-8.Feedback
-9.Offers/Promotions.
+1. On boarding.
+2. Notifications
+3. Generate ticket
+4. Refund in case of cancellation
+5. Calculate billing amount
+6. Confirm payment
+7. Customer care support
+8. Feedback
+9. Offers/Promotions.
 
 General to all:
-1.Registration/Login
-2.Feedback
+1. Registration/Login
+2. Feedback
 
 
 
